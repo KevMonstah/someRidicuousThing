@@ -6,3 +6,5 @@ require (
 	github.com/rabbitmq/amqp091-go v1.10.0
 	golang.org/x/exp v0.0.0-20250128182459-e0ece0dbea4c
 )
+
+require github.com/KevMonstah/Puppy v0.0.0-20250201213307-2252b72def2a

@@ -1,3 +1,5 @@
+github.com/KevMonstah/Puppy v0.0.0-20250201213307-2252b72def2a h1:8bwd+AhUwO5ZbnNsP2yp8QffT5z3NuYz9ws0xYTkCko=
+github.com/KevMonstah/Puppy v0.0.0-20250201213307-2252b72def2a/go.mod h1:h2cf+SH6y1UVy9/xlQHZjoMgvHQOn/rHLv3svLOMqyg=
 github.com/rabbitmq/amqp091-go v1.10.0 h1:STpn5XsHlHGcecLmMFCtg7mqq0RnD+zFr4uzukfVhBw=
 github.com/rabbitmq/amqp091-go v1.10.0/go.mod h1:Hy4jKW5kQART1u+JkDTF9YYOQUHXqMuhrgxOEeS7G4o=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
