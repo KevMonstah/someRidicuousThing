@@ -7,4 +7,6 @@ require (
 	golang.org/x/exp v0.0.0-20250128182459-e0ece0dbea4c
 )
 
-require github.com/KevMonstah/Puppy v0.0.0-20250201213307-2252b72def2a
+require github.com/KevMonstah/Puppy v0.0.0-20250201220132-07fbcfe25589
+
+require github.com/KevMonstah/Dog v0.0.0-20250201215044-309b159885c3 // indirect

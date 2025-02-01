@@ -1,5 +1,9 @@
-github.com/KevMonstah/Puppy v0.0.0-20250201213307-2252b72def2a h1:8bwd+AhUwO5ZbnNsP2yp8QffT5z3NuYz9ws0xYTkCko=
-github.com/KevMonstah/Puppy v0.0.0-20250201213307-2252b72def2a/go.mod h1:h2cf+SH6y1UVy9/xlQHZjoMgvHQOn/rHLv3svLOMqyg=
+github.com/KevMonstah/Dog v0.0.0-20250201215044-309b159885c3 h1:eoauNEnW7xCmugobrghtvVodwDtJR1XnrbB2FA5jE5U=
+github.com/KevMonstah/Dog v0.0.0-20250201215044-309b159885c3/go.mod h1:B7c2VsYjrPkvJa77/A4XB/Gov8UGfBslBKZ7fBxhuio=
+github.com/KevMonstah/Puppy v0.0.0-20250201215521-1d8aa71797cd h1:9lsP9YrOhqPclrmuvPCzZGEEDowPLZ0byE2dDZ1xkos=
+github.com/KevMonstah/Puppy v0.0.0-20250201215521-1d8aa71797cd/go.mod h1:VO2RzsM1KpSvS505RC6G7FyQRH+ngElBr0FyIZ6S1So=
+github.com/KevMonstah/Puppy v0.0.0-20250201220132-07fbcfe25589 h1:W646Q4WCL8qRgprJFi3BKP7Bmt/hQdEl3SnyJOzTXRA=
+github.com/KevMonstah/Puppy v0.0.0-20250201220132-07fbcfe25589/go.mod h1:VO2RzsM1KpSvS505RC6G7FyQRH+ngElBr0FyIZ6S1So=
 github.com/rabbitmq/amqp091-go v1.10.0 h1:STpn5XsHlHGcecLmMFCtg7mqq0RnD+zFr4uzukfVhBw=
 github.com/rabbitmq/amqp091-go v1.10.0/go.mod h1:Hy4jKW5kQART1u+JkDTF9YYOQUHXqMuhrgxOEeS7G4o=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
